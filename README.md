@@ -2,6 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Breno, Fullstack developer from <img src="https://www.flaticon.com/free-icon/brazil_3022546" width="13"/> <b>Fortaleza, Brazil</b>. </p>
+<p>See my portfolio in https://github.com/brenotorrescarvalho/personal-portfolio</p>
 <h3>Things I code with</h3>
 <p>
   
