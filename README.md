@@ -1,12 +1,16 @@
-# Olá, eu sou Breno Torres 👋
-
-## Desenvolvedor Full Stack | Django + React/TypeScript
-
-Sou desenvolvedor apaixonado por criar soluções web completas e escaláveis. Especializado em backends robustos com Python/Django e interfaces modernas com React e TypeScript.
+🇧🇷 [Português](README.pt-BR.md) | 🇺🇸 **English**
 
 ---
 
-### 🚀 Stack Principal
+# Hi, I'm Breno Torres 👋
+
+## Full Stack Developer | Django + React/TypeScript
+
+I'm a developer passionate about building complete and scalable web solutions. Specialized in robust backends with Python/Django and modern interfaces with React and TypeScript.
+
+---
+
+### 🚀 Main Stack
 
 **Backend:**
 - Python | Django | Django REST Framework
@@ -24,39 +28,58 @@ Sou desenvolvedor apaixonado por criar soluções web completas e escaláveis. E
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenotorrescarvalho&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenotorrescarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenotorrescarvalho&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenotorrescarvalho&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=brenotorrescarvalho&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
----
-
-### 🏆 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [TaskFlow Pro](link) | Sistema de gestão de projetos | Django + React + TypeScript |
-| [EcommerceHub](link) | E-commerce completo com dashboard | DRF + React + Stripe |
-| [DevConnect](link) | Rede social para desenvolvedores | Django + React + WebSockets |
-
----
-
-### 📫 Contato
-
-- LinkedIn: [brenotorrescarvalho](https://www.linkedin.com/in/brenotorrescarvalho/)
-- Email: seu@email.com
-- Portfolio: [seu-site.com](link)
+<div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/brenotorrescarvalho?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/brenotorrescarvalho?style=social)
+  
+</div>
 
 ---
 
-### 💡 Filosofia de Código
+### 🏆 Featured Projects
 
-> "Código limpo não é apenas sobre funcionar, é sobre comunicar intenção."
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [TaskFlow Pro](https://github.com/brenotorrescarvalho/taskflow-pro) | Project management system | Django + React + TypeScript |
+| [EcommerceHub](https://github.com/brenotorrescarvalho/ecommerce-hub) | Complete e-commerce with dashboard | DRF + React + Stripe |
+| [DevConnect](https://github.com/brenotorrescarvalho/devconnect) | Social network for developers | Django + React + WebSockets |
+
+---
+
+### 📫 Contact
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenotorrescarvalho/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+  
+</div>
+
+---
+
+### 💡 Code Philosophy
+
+> "Clean code is not just about working, it's about communicating intent."
 
 - Clean Code & SOLID principles
-- Testes automatizados (pytest, Jest, React Testing Library)
-- Documentação clara e APIs bem estruturadas
-- Git Flow e commits semânticos
+- Automated testing (pytest, Jest, React Testing Library)
+- Clear documentation and well-structured APIs
+- Git Flow and semantic commits
 
 ---
 
-⭐ Se algum projeto foi útil, considere deixar uma estrela!
+<div align="center">
+  
+  ⭐ If any project was helpful, consider leaving a star!
+  
+</div>
