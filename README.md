@@ -2,84 +2,62 @@
 
 ---
 
-# Hi, I'm Breno Torres 👋
+# Breno Torres
 
-## Full Stack Developer | Django + React/TypeScript
+**Data Scientist & ML Engineer**
 
-I'm a developer passionate about building complete and scalable web solutions. Specialized in robust backends with Python/Django and modern interfaces with React and TypeScript.
-
----
-
-### 🚀 Main Stack
-
-**Backend:**
-- Python | Django | Django REST Framework
-- PostgreSQL | SQLite | Redis
-- JWT Auth | OAuth2
-- Docker | CI/CD
-
-**Frontend:**
-- React | TypeScript
-- Vite | TanStack Query
-- Tailwind CSS | Shadcn/ui
-- Axios | React Hook Form | Zod
+I lead a Data & Analytics team and work across the full ML lifecycle — statistical modeling, experiment design, MLOps pipelines, and production deployment. I'm also available for freelance projects involving data science, machine learning, and backend development.
 
 ---
 
-### 📊 GitHub Stats
+### What I can help with
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenotorrescarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenotorrescarvalho&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=brenotorrescarvalho&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/brenotorrescarvalho?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/brenotorrescarvalho?style=social)
-  
-</div>
+- **Machine learning end-to-end** — from problem framing and feature engineering to model selection, validation, and deployment
+- **MLOps & pipelines** — orchestrated, reproducible workflows that actually run in production
+- **Data backends** — APIs and dashboards that connect models to real users
 
 ---
 
-### 🏆 Featured Projects
+### Stack
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [TaskFlow Pro](https://github.com/brenotorrescarvalho/taskflow-pro) | Project management system | Django + React + TypeScript |
-| [EcommerceHub](https://github.com/brenotorrescarvalho/ecommerce-hub) | Complete e-commerce with dashboard | DRF + React + Stripe |
-| [DevConnect](https://github.com/brenotorrescarvalho/devconnect) | Social network for developers | Django + React + WebSockets |
-
----
-
-### 📫 Contact
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenotorrescarvalho/)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-  
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-### 💡 Code Philosophy
+### Projects
 
-> "Clean code is not just about working, it's about communicating intent."
+#### [Cosmos Hub](https://cosmos-hub-xvf2.onrender.com) — Real-time Space Data Platform
 
-- Clean Code & SOLID principles
-- Automated testing (pytest, Jest, React Testing Library)
-- Clear documentation and well-structured APIs
-- Git Flow and semantic commits
+> Site access is restricted. To request a walkthrough or discuss a project, contact [cosmos.hub.dev@proton.me](mailto:cosmos.hub.dev@proton.me)
+
+![Cosmos Hub Home](screenshots/cosmos-hub-home.png)
+
+A data-driven web platform that aggregates real-time space data from multiple APIs, featuring:
+
+- Live launch tracking with countdown and mission details
+- Physics-based ascent trajectory simulation (Tsiolkovsky + Newton + RK4 integration) with per-step calculation breakdown on hover
+- Live orbital satellite map
+- NASA Astronomy Picture of the Day + Space Weather (DONKI)
+
+**Stack:** Django · Plotly · The Space Devs LL2 API · NASA API · Skyfield · CockroachDB · Render
 
 ---
 
-<div align="center">
-  
-  ⭐ If any project was helpful, consider leaving a star!
-  
-</div>
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/brenotorrescarvalho/) · [brenotorrescarvalho@gmail.com](mailto:brenotorrescarvalho@gmail.com)
+
+---
+
+> "A model that can't be deployed is just a research project."
